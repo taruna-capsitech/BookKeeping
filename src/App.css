@@ -1,0 +1,210 @@
+.fieldLable{
+    font-weight: 500;
+    padding: 5px;
+}
+.form-left-side, .form-right-side{
+    padding: 5% 10%;
+}
+.headertable{
+    background: #dddddd52;
+    width: 80%;
+    border-collapse: collapse;
+}
+.headerrow{
+    padding:10px;
+    border-bottom: 3px solid #2dc3e8;
+}
+.headertable .col-2{
+    width: 30%;
+}
+.buttongroup{
+    padding: 5px;
+}
+.fieldLable2{
+    width: 20px;
+    height: 20px;
+    background: #ddd;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+}
+.receipttable{
+    border: 1px solid black;
+    height: 50px;
+}
+.tabletitle{
+    background-color: #800080;
+    padding: 5px 15px;
+    color: #fff;
+}
+.plus{
+    padding: 0 10px;
+    color: #2961ba;
+    font-weight: 900;
+    font-size: 25px;
+    border: 1px solid #aaa;
+    background: #ddd;
+}
+.filecontainer{
+    border: 1px solid #aaa;
+}
+.addbutton{
+    width: 40%;
+}
+.remove{
+    padding: 5px;
+    background: red;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+}
+.additemform1{
+    width: 40%;
+    position: absolute;
+    top: -100%;
+    left: 30%;
+    transition: 0.6s;
+}
+.additemform2{
+    background-color: #fff;
+    padding: 25px;
+    width: 40%;
+    position: absolute;
+    top: 105px;
+    left: 30%;
+    display: block;
+    transition: 0.6s;
+    box-shadow: 0 0 15px #eee;
+}
+.mainmenu{
+    background-color: #2dc3e8;
+    width: 100%;
+    padding: 10px;
+}
+.menuitem{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+.dashboardtitle{
+    padding: 10px;
+    box-shadow: 0 0 15px #ddd;
+    width: 412px;
+}
+.dashboardcontainer{
+    box-shadow: 0 0 15px #ddd;
+    width: 430px;
+    height: 280px;
+    margin: 45px;
+    margin-bottom: 0;
+}
+.dashboardtitle1{
+    padding: 10px;
+    box-shadow: 0 0 15px #ddd;
+    width: 880px;
+}
+.dashboardcontainer1{
+    box-shadow: 0 0 15px #ddd;
+    width: 900px;
+    height: 280px;
+    margin: 45px;
+    margin-bottom: 0;
+}
+.salescontent{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.salescontent .rightcontent{
+    text-align: right;
+}
+.currancy{
+    font-size: 25px;
+    font-weight: 100;
+}
+.buttoncontainer{
+    padding: 15px;
+    padding-top: 40px;
+}
+.salesdashboardbutons{
+    margin: 5px;
+}
+.salesdashboardtablelinks{
+    border-right: 1px solid #000;
+    padding: 0 20px;
+    margin: 5px 0;
+}
+.noborderright{
+    border: none;
+}
+.datalistcontainer{
+    width: 90%;
+    height: 100%;
+    margin: 15px !important;
+    box-shadow: 0 0 15px #ddd;
+}
+.grandtotalheading{
+    padding: 7px 15px;
+    background: #fff;
+    border-bottom: 3px solid #2dc3e8;
+    width: 25%;
+    margin-top: 15px;
+    margin-left: 72%;
+}
+.grandtotalcontent{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    width: 27.2%;
+    margin-left: 72%;
+}
+.grandtotalmarginbottom{
+    margin-bottom: 15px;
+}
+.filters{
+    padding: 15px 5px;
+}
+
+/* form prop component */
+.formContainer{
+    margin: 15px;
+    padding: 15px;
+    box-shadow: 0 0 15px #ddd;
+}
+.formtitle{
+    font-weight: 500;
+    padding: 15px;
+    border-bottom: 3px solid #2dc3e8;
+}
+.formProp{
+    padding: 15px;
+    background: #fbfbfb;
+}
+.formlabel{
+    text-align: right;
+    padding: 0 15px;
+}
+.addCustomer{
+    font-size: 35px;
+    font-weight: 500;
+    color: #2dc3e8;
+    width: 25px;
+    height: 30px;
+}
+.formProp td{
+    vertical-align: top;
+    padding: 5px;
+}
+.formproptable{
+    background: #ddd;
+    border-collapse: collapse;
+    width: 80%;
+}
+.formButtonSection{
+    padding: 25px 0;
+    border-top: 1px solid #ddd;
+    margin-top: 15px;
+}
+
